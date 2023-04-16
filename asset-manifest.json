@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5d8841cf.css",
-    "main.js": "/static/js/main.8216b1a2.js",
+    "main.js": "/static/js/main.1a3c3f8a.js",
     "static/media/FbAd1.jpg": "/static/media/FbAd1.f6e1d44a9c82c4cfee95.jpg",
     "static/media/me-about.jpg": "/static/media/me-about.75807e4ef1d88479d11d.jpg",
     "static/media/bokaforarporvlogo4.png": "/static/media/bokaforarporvlogo4.8dadf7f8ad5ccdef670c.png",
@@ -14,10 +14,10 @@
     "static/media/about2.webp": "/static/media/about2.9eecfe04a6a9d96c961c.webp",
     "index.html": "/index.html",
     "main.5d8841cf.css.map": "/static/css/main.5d8841cf.css.map",
-    "main.8216b1a2.js.map": "/static/js/main.8216b1a2.js.map"
+    "main.1a3c3f8a.js.map": "/static/js/main.1a3c3f8a.js.map"
   },
   "entrypoints": [
     "static/css/main.5d8841cf.css",
-    "static/js/main.8216b1a2.js"
+    "static/js/main.1a3c3f8a.js"
   ]
 }
