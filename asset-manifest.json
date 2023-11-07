@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.adda23c2.css",
-    "main.js": "/static/js/main.c752b882.js",
+    "main.js": "/static/js/main.685eb02c.js",
     "static/media/portfolio10.png": "/static/media/portfolio10.3a748e685172a6a05c59.png",
     "static/media/portfolio7.png": "/static/media/portfolio7.5b62fa4ad799227ef2a8.png",
     "static/media/FbAd1.jpg": "/static/media/FbAd1.f6e1d44a9c82c4cfee95.jpg",
     "static/media/portfolio9.webp": "/static/media/portfolio9.a7e28db7fb8a073ba9ba.webp",
     "static/media/me-about.jpg": "/static/media/me-about.75807e4ef1d88479d11d.jpg",
     "static/media/bokaforarporvlogo4.png": "/static/media/bokaforarporvlogo4.8dadf7f8ad5ccdef670c.png",
+    "static/media/portfolio11.jpg": "/static/media/portfolio11.436119f1d79a4112660b.jpg",
     "static/media/portfolio1.webp": "/static/media/portfolio1.cd53583c65d435a52dbd.webp",
     "static/media/Telefon_Ny.png": "/static/media/Telefon_Ny.5420c8bcc07789fe4169.png",
     "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
@@ -18,10 +19,10 @@
     "static/media/about2.webp": "/static/media/about2.9eecfe04a6a9d96c961c.webp",
     "index.html": "/index.html",
     "main.adda23c2.css.map": "/static/css/main.adda23c2.css.map",
-    "main.c752b882.js.map": "/static/js/main.c752b882.js.map"
+    "main.685eb02c.js.map": "/static/js/main.685eb02c.js.map"
   },
   "entrypoints": [
     "static/css/main.adda23c2.css",
-    "static/js/main.c752b882.js"
+    "static/js/main.685eb02c.js"
   ]
 }
