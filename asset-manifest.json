@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.47de478b.css",
-    "main.js": "/static/js/main.1aa8a38c.js",
+    "main.js": "/static/js/main.1f3e6e8a.js",
     "static/media/portfolio10.png": "/static/media/portfolio10.3a748e685172a6a05c59.png",
     "static/media/portfolio11.jpg": "/static/media/portfolio11.d44471aecc3953c53ede.jpg",
     "static/media/portfolio7.png": "/static/media/portfolio7.5b62fa4ad799227ef2a8.png",
@@ -13,6 +13,7 @@
     "static/media/portfolio16.jpg": "/static/media/portfolio16.c21c7cc5ee2cdf1a1c31.jpg",
     "static/media/Telefon_Ny.png": "/static/media/Telefon_Ny.5420c8bcc07789fe4169.png",
     "static/media/portfolio13.jpg": "/static/media/portfolio13.831e02b63b0845be8128.jpg",
+    "static/media/portfolio18.png": "/static/media/portfolio18.f7b1935294c1e3d92b8b.png",
     "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/portfolio8.jpg": "/static/media/portfolio8.e6d4ecd9d1fac509415f.jpg",
@@ -23,10 +24,10 @@
     "static/media/about2.webp": "/static/media/about2.9eecfe04a6a9d96c961c.webp",
     "index.html": "/index.html",
     "main.47de478b.css.map": "/static/css/main.47de478b.css.map",
-    "main.1aa8a38c.js.map": "/static/js/main.1aa8a38c.js.map"
+    "main.1f3e6e8a.js.map": "/static/js/main.1f3e6e8a.js.map"
   },
   "entrypoints": [
     "static/css/main.47de478b.css",
-    "static/js/main.1aa8a38c.js"
+    "static/js/main.1f3e6e8a.js"
   ]
 }
