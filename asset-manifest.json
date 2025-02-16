@@ -1,34 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.47de478b.css",
-    "main.js": "/static/js/main.38b4c3e0.js",
-    "static/media/portfolio10.png": "/static/media/portfolio10.3a748e685172a6a05c59.png",
-    "static/media/portfolio11.jpg": "/static/media/portfolio11.d44471aecc3953c53ede.jpg",
+    "main.css": "/static/css/main.faa63432.css",
+    "main.js": "/static/js/main.48a5daf3.js",
+    "static/media/portfolio9.png": "/static/media/portfolio9.3a748e685172a6a05c59.png",
+    "static/media/portfolio10.png": "/static/media/portfolio10.d44471aecc3953c53ede.png",
     "static/media/portfolio7.png": "/static/media/portfolio7.5b62fa4ad799227ef2a8.png",
     "static/media/FbAd1.jpg": "/static/media/FbAd1.f6e1d44a9c82c4cfee95.jpg",
     "static/media/me-about.jpg": "/static/media/me-about.75807e4ef1d88479d11d.jpg",
     "static/media/bokaforarporvlogo4.png": "/static/media/bokaforarporvlogo4.8dadf7f8ad5ccdef670c.png",
-    "static/media/portfolio12.jpg": "/static/media/portfolio12.436119f1d79a4112660b.jpg",
+    "static/media/portfolio11.jpg": "/static/media/portfolio11.436119f1d79a4112660b.jpg",
     "static/media/portfolio1.webp": "/static/media/portfolio1.cd53583c65d435a52dbd.webp",
-    "static/media/portfolio16.jpg": "/static/media/portfolio16.c21c7cc5ee2cdf1a1c31.jpg",
     "static/media/Telefon_Ny.png": "/static/media/Telefon_Ny.5420c8bcc07789fe4169.png",
-    "static/media/portfolio13.jpg": "/static/media/portfolio13.831e02b63b0845be8128.jpg",
-    "static/media/portfolio18.png": "/static/media/portfolio18.f7b1935294c1e3d92b8b.png",
     "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio8.jpg": "/static/media/portfolio8.e6d4ecd9d1fac509415f.jpg",
-    "static/media/portfolio17.png": "/static/media/portfolio17.576ea4c97c119f43bed6.png",
-    "static/media/portfolio19.jpg": "/static/media/portfolio19.c8fb4e51c1e9f17ac8b8.jpg",
     "static/media/pass.jfif": "/static/media/pass.435748e4b44b259c67d3.jfif",
-    "static/media/portfolio14.jpg": "/static/media/portfolio14.a66c43f39aa9c60c4543.jpg",
+    "static/media/portfolio8.webp": "/static/media/portfolio8.757653ba9c88073981ce.webp",
     "static/media/about3.png": "/static/media/about3.981588ce53654a2b95de.png",
     "static/media/about2.webp": "/static/media/about2.9eecfe04a6a9d96c961c.webp",
     "index.html": "/index.html",
-    "main.47de478b.css.map": "/static/css/main.47de478b.css.map",
-    "main.38b4c3e0.js.map": "/static/js/main.38b4c3e0.js.map"
+    "main.faa63432.css.map": "/static/css/main.faa63432.css.map",
+    "main.48a5daf3.js.map": "/static/js/main.48a5daf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.47de478b.css",
-    "static/js/main.38b4c3e0.js"
+    "static/css/main.faa63432.css",
+    "static/js/main.48a5daf3.js"
   ]
 }
